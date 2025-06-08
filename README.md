@@ -19,6 +19,6 @@ Preprocessed CSV files from the data cleaning pipeline:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/backorder-lstm.git
-cd backorder-lstm
+git clone https://github.com/hodeis99/lstm.git
+cd lstm
 pip install -r requirements.txt
